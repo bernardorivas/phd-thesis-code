@@ -1,6 +1,6 @@
 # Repository for DSGRN computations on my PhD Thesis
 
-This repository contains the source files, data, and code for my PhD thesis ``A Combinatorial Topological Method for the Global Dynamics of Parameterized ODEs'' submitted to Rutgers, The State University of New Jersey in fulfillment of the requirements for the degree of PhD in Mathematics. 
+This repository contains the source files and examples for my PhD thesis ``A Combinatorial Topological Method for the Global Dynamics of Parameterized ODEs'' submitted to Rutgers, The State University of New Jersey in fulfillment of the requirements for the degree of PhD in Mathematics. 
 
 ## Structure
 
