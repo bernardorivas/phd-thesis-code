@@ -10,4 +10,4 @@ This repository contains the source files and examples for my PhD thesis ``A Com
 ## Running Code
 
 - Check `examples/Chapter16.ipynb` and install dependencies.
-- Run scripts associated to Chapter 16, Section 16.x, Example 16.x.y as described
+- Run the code associated to Chapter 16, Section 16.x, Example 16.x.y as described
